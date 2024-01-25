@@ -16,3 +16,6 @@ The project can be made as a Web Application which allows users to create the sc
    c) No of routines created.
 
 Note: - Application should be capable of detecting conflicts on teacher availability at period and do not allow such conflict operations.
+
+
+<!-- this commit is by sneha -->
