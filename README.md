@@ -1,4 +1,4 @@
-#To design a class routine / schedule creation system
+# To design a class routine / schedule creation system
 
 Manually class routine creation system is tedious and overwhelming. This approach also suffers from various conflicts in teacher coordination. Sometimes same teacher is assigned to different class at same time which is difficult to track when number teacher ,subject and classes are very high.
 We are expecting the participants to write and develop web application to perform this tedious task i n ease.
